@@ -20,7 +20,7 @@ Dieses Skript automatisiert den gesamten Prozess. Es durchsucht einen definierte
 <img width="661" height="520" alt="Screenshot_Zusammenführung" src="https://github.com/user-attachments/assets/945676a1-6126-48bc-8de0-7bee27943ffb" />
 
 
-## ⚙Funktionsweise im Detail
+## Funktionsweise im Detail
 
 Das Skript führt die folgenden Schritte aus:
 
